@@ -10,6 +10,7 @@
 # Dependency directory #
 ############
 node_modules
+bundle.js
 
 # Packages #
 ############
